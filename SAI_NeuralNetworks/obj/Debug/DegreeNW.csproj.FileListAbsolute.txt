@@ -1,0 +1,11 @@
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\bin\Debug\DegreeNW.exe
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\bin\Debug\DegreeNW.pdb
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\bin\Debug\ClassLibraryNeuralNetworks.dll
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\DegreeNW.csprojResolveAssemblyReference.cache
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form1.resources
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form2.resources
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\SAI_NeuralNetworks.Form4.resources
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\DegreeNW.Properties.Resources.resources
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\DegreeNW.csproj.GenerateResource.Cache
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\DegreeNW.exe
+D:\Users\Tom\Desktop\Новая папка\SAI_NeuralNetworks\obj\Debug\DegreeNW.pdb
